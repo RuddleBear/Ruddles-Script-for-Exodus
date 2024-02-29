@@ -15,7 +15,7 @@ This Script has over 20 Trolling Features, 30 Self Features, 15 Misc Features, a
 **Install Guide:**
 
 1) Drag *Ruddles-Script.lua* into the ``Scripting`` Folder.
-2) Unzip *Ruddles.zip* into the ``Packages`` Folder.
+2) Unzip/Extract *Ruddles.zip* into the ``Packages`` Folder.
 
 
 Please go ahead and Join the Exodus Discord if you need further assistance with installing this Script: https://discord.com/invite/YVWGTt87E8
