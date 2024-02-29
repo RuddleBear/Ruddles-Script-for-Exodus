@@ -7,7 +7,7 @@ Ruddles Script is a Multipurpose Script for Exodus, it has many Quality of Life 
 
 **Features:**
 
-This Script has over 20 Trolling Features, 30 Self Features, 15 Misc Features, and 20 World Features.
+This Script has tons of Features like Trolling, Self, Misc, Game Settings, Spawner...
 
  + and More!
 
