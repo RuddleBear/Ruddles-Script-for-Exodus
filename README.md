@@ -30,5 +30,10 @@ This Script has tons of Features like Trolling, Self, Misc, Game Settings, Spawn
 "Client" will be "Client (Lite)" instead if you use the LITE Version of Exodus!
 
 
+# Need help with Installing it?
 
-# Please go ahead and Join the Exodus Discord if you need further assistance with installing this Script: https://discord.com/invite/YVWGTt87E8
+1) You can Message me on Discord and I will assist you, here's my Discord name: **ocsw**
+
+2) If you don't want to Message me for help, you can join our wonderful Community and we will assist you there: https://discord.com/invite/YVWGTt87E8
+
+The Discord Link above is a direct Link to the Official Exodus Discord Server!
