@@ -19,15 +19,22 @@ This Script has tons of Features like Trolling, Self, Misc, Game Settings, Spawn
 
 **Directory for the Scripting Folder:**
 
+FULL
 ```C:\Users\YourUser\AppData\Roaming\Exodus Client\Library\Red Dead Redemption 2\Client\Scripting```
+
+LITE
+```C:\Users\YourUser\AppData\Roaming\Exodus Client\Library\Red Dead Redemption 2\Client (Lite)\Scripting```
 
 **Directory for the Packages Folder:**
 
+FULL
 ```C:\Users\YourUser\AppData\Roaming\Exodus Client\Library\Red Dead Redemption 2\Client\Scripting\Packages```
 
-"YourUser" is the Username of your PC, so change that to your PCs name if you can't find the location manually!
+LITE
+```C:\Users\YourUser\AppData\Roaming\Exodus Client\Library\Red Dead Redemption 2\Client (Lite)\Scripting\Packages```
 
-"Client" will be "Client (Lite)" instead if you use the LITE Version of Exodus!
+
+"YourUser" is the Username of your PC, so change that to your PCs name if you can't find the location manually!
 
 
 # Need help with Installing it?
